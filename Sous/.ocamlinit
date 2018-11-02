@@ -1,0 +1,12 @@
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#require "str";;
+#directory "_build";;
+#load "command.cmo";;
+#load "state.cmo";;
+#load "pantry.cmo";;
+#load "cookbook.cmo";;
+#load "read.cmo";;
+#load "kitchen.cmo";;
+

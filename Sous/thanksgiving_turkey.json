@@ -1,0 +1,42 @@
+{
+  "name": "thanksgiving turkey",
+  "servings": 10,
+  "cuisine": "american",
+  "course": "dinner",
+  "steps": [
+    {
+      "step_num": 1,
+      "instructions": "Combine rosemary, sage, thyme, salt and pepper in small bowl. Rub all over turkey.",
+      "ingredients": [
+        "rosemary",
+        "sage",
+        "thyme",
+        "salt",
+        "pepper",
+        "turkey"
+      ]
+    },
+    {
+      "step_num": 2,
+      "instructions": "Roast turkey, uncovered, at 375, basting frequently with turkey or chicken broth. After 1 hour, baste and sprinkle with seasonings again, then make a tent with aluminum foil and cover breast loosely. Reduce heat to 325 and continue roasting for another hour, basting occasionally.",
+      "ingredients": [
+        "can broth"
+      ]
+    },
+    {
+      "step_num": 3,
+      "instructions": "Uncover breast and continue roasting until an instant-read thermometer inserted in the thickest portion of the thigh registers 165°F. This will take about 90 to 110 minutes longer, depending upon the size of turkey and oven being used.",
+      "ingredients": []
+    },
+    {
+      "step_num": 4,
+      "instructions": "When turkey is golden brown and done, allow it to sit for 20 minutes to rest before carving. Don’t wait for the little plastic “pop-up” devices to pop, or it’s likely that the bird will be overdone and dry.",
+      "ingredients": []
+    },
+    {
+      "step_num": 5,
+      "instructions": "If you don’t own an instant read thermometer, test to see if turkey is cooked by inserting the tines of a large fork into the upper thigh. If juice is not pink, then turkey is done.",
+      "ingredients": []
+    }
+  ]
+}

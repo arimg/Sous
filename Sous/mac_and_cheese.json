@@ -1,0 +1,35 @@
+{
+  "name": "mac and cheese",
+  "servings": 6,
+  "cuisine": "american",
+  "course": "entree",
+  "steps": [
+    {
+      "step_num": 1,
+      "instructions": "Preheat oven to 400°. Microwave milk at HIGH for 1 1/2 minutes. Melt butter in a large skillet or Dutch oven over medium-low heat; whisk in flour until smooth. Cook, whisking constantly, 1 minute.",
+      "ingredients": [
+        "milk",
+        "butter",
+        "flour"
+      ]
+    },
+    {
+      "step_num": 2,
+      "instructions": "Gradually whisk in warm milk, and cook, whisking constantly, 5 minutes or until thickened.",
+      "ingredients": [
+        "milk"
+      ]
+    },
+    {
+      "step_num": 3,
+      "instructions": "Whisk in salt, black pepper, 1 cup shredded cheese, and, if desired, red pepper until smooth; stir in pasta. Spoon pasta mixture into a lightly greased 2-qt. baking dish; top with remaining cheese. Bake at 400° for 20 minutes or until golden and bubbly.",
+      "ingredients": [
+        "salt",
+        "black pepper",
+        "cheese",
+        "red pepper",
+        "pasta"
+      ]
+    }
+  ]
+}

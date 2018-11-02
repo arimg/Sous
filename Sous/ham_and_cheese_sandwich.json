@@ -1,0 +1,33 @@
+{
+  "name": "ham and cheese sandwich",
+  "servings": 1,
+  "cuisine": "american",
+  "course": "lunch",
+  "steps": [
+    {
+      "step_num": 1,
+      "instructions": "Preheat broiler.",
+      "ingredients": []
+    },
+    {
+      "step_num": 2,
+      "instructions": "Combine 1/4 cup (2 ounces) tub light cream cheese, 1 tablespoon chopped fresh basil, 1 teaspoon Dijon mustard and 1/4 teaspoon freshly ground black pepper ingredients in small bowl; stir well",
+      "ingredients": [
+        "cream cheese",
+        "basil",
+        "Dijon mustard",
+        "black pepper"
+      ]
+    },
+    {
+      "step_num": 3,
+      "instructions": "Spread about 1 tablespoon cream cheese mixture over each of 4 bread slices. Top each with 1 ounce ham, 2 tomato slices, and 1 tablespoon cheddar cheese. Place sandwich halves and remaining 4 slices bread on a baking sheet. Broil 2 minutes or until cheese is melted and bread is lightly browned. Top each sandwich half with remaining bread slice. Serve immediately.",
+      "ingredients": [
+        "bread",
+        "ham",
+        "tomato",
+        "cheddar cheese"
+      ]
+    }
+  ]
+}

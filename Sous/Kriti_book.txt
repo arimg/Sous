@@ -1,0 +1,11 @@
+egg  chocolate_chip_cookies.json
+granulated sugar  chocolate_chip_cookies.json
+salt  chocolate_chip_cookies.json
+brown sugar  chocolate_chip_cookies.json
+dessert  chocolate_chip_cookies.json
+american  chocolate_chip_cookies.json
+chocolate chips  chocolate_chip_cookies.json
+baking soda  chocolate_chip_cookies.json
+butter  chocolate_chip_cookies.json
+vanilla  chocolate_chip_cookies.json
+flour  chocolate_chip_cookies.json
